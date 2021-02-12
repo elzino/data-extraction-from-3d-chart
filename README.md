@@ -3,6 +3,9 @@
 ## Overview of the Algorithm
 ![Algorithm](resource/algorithm.png)
 
+## Project paper
+- [pdf file](./Automated_data_extraction_from_3D_bar_chart_images.pdf)
+
 ## Environment
 
 python 3.8.5 with virtualenv
