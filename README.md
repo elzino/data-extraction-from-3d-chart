@@ -4,7 +4,7 @@
 ![Algorithm](resource/algorithm.png)
 
 ## Project paper
-- [pdf file](./Automated_data_extraction_from_3D_bar_chart_images.pdf)
+- <a id="raw-url" href="https://github.com/elzino/data-extraction-from-3d-chart/blob/main/Automated_data_extraction_from_3D_bar_chart_images.pdf?raw=1">pdf file</a>
 
 ## Environment
 
